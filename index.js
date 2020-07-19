@@ -17,5 +17,6 @@ function logWhisper(string) {
 function sayHiToGrandma(string) {
   var cantHear = "I cant' hear you!";
   var yesIndeed = "YES INDEED!";
-  var loveYou = "I love you, too."
+  var loveYou = "I love you, too.";
+  
 }
